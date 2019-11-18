@@ -1,0 +1,31 @@
+{
+    "name": "extension-pack",
+    "displayName": "WW Extension Pack",
+    "description": "extensions used at WW",
+    "publisher": "ww",
+    "version": "0.0.5",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "atlassian.atlascode",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "mikestead.dotenv",
+        "mrmlnc.vscode-duplicate",
+        "ms-azuretools.vscode-docker",
+        "ms-vsliveshare.vsliveshare-pack",
+        "redhat.vscode-yaml",
+        "wallabyjs.quokka-vscode"
+    ],
+    "devDependencies": {
+        "vsce": "^1.69.0"
+    }
+}
