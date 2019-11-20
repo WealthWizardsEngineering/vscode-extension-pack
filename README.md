@@ -1,6 +1,6 @@
 # WW Extension Pack
 
-A pack of useful extensions that help make work easier here at WW.
+A pack of useful extensions that help make work easier at WealthWizards.
 
 ##### Extensions Included:
 
