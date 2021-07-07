@@ -14,6 +14,7 @@ A pack of useful extensions that help make work easier at WealthWizards.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [Quokka.js](https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode)
 
 ##### Keymap extensions:
   
