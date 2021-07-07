@@ -2,4 +2,3 @@
 .vscode-test/**
 .gitignore
 *.ignore
-vsc-extension-quickstart.md
