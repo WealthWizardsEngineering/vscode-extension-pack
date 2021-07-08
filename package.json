@@ -11,17 +11,15 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "atlassian.atlascode",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
-        "CoenraadS.bracket-pair-colorizer",
+        "coenraads.bracket-pair-colorizer-2",
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
         "mikestead.dotenv",
-        "mrmlnc.vscode-duplicate",
         "ms-azuretools.vscode-docker",
-        "ms-vsliveshare.vsliveshare-pack",
+        "ms-vscode-remote.remote-containers",
         "redhat.vscode-yaml",
         "wallabyjs.quokka-vscode"
     ],
@@ -31,6 +29,6 @@
     },
     "icon": "W_Mark_RGB128.png",
     "devDependencies": {
-        "vsce": "^1.69.0"
+        "vsce": "1.95.0"
     }
 }
