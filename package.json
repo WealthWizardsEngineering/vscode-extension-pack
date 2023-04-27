@@ -30,6 +30,6 @@
     },
     "icon": "W_Mark_RGB128.png",
     "devDependencies": {
-        "vsce": "^1.69.0"
+        "vsce": "^1.103.1"
     }
 }
